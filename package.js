@@ -1,0 +1,10 @@
+{
+  "name": "albumsweep",
+  "main": "App.js",
+  "dependencies": {
+    "expo": "~51.0.0",
+    "react": "18.2.0",
+    "react-native": "0.74.0",
+    "expo-status-bar": "~1.12.0"
+  }
+}
